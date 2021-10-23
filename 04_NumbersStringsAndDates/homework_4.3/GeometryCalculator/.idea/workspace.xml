@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5cd79b9a-c08d-451f-bad6-4d34bbc63a0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/GeometryCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeometryCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrucksContainersAndBoxes/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TrucksContainersAndBoxes/src/main/java/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1n6t4UAzDzT9OKatdiu8ffZw0U7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestGetTriangleSquare.testGetTriangleSquareWithOneNegativeSideAndTwoPositiveSides">
+    <configuration name="TestGetTriangleSquare.testGetTriangleSquareWithOneFractionalSideAndTwoPositiveSides" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeometryCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestGetTriangleSquare" />
+      <option name="METHOD_NAME" value="testGetTriangleSquareWithOneFractionalSideAndTwoPositiveSides" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGetTriangleSquare.testGetTriangleSquareWithOneFractionalSides" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeometryCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestGetTriangleSquare" />
+      <option name="METHOD_NAME" value="testGetTriangleSquareWithOneFractionalSides" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGetTriangleSquare.testGetTriangleSquareWithOneNegativeSideAndTwoPositiveSides" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeometryCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestGetTriangleSquare" />
+      <option name="METHOD_NAME" value="testGetTriangleSquareWithOneNegativeSideAndTwoPositiveSides" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGetTriangleSquare.testGetTriangleSquareWithOneZeroSideAndTwoPositiveSides" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeometryCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestGetTriangleSquare" />
+      <option name="METHOD_NAME" value="testGetTriangleSquareWithOneZeroSideAndTwoPositiveSides" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGetTriangleSquare.testGetTriangleSquareWithZeroSides" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeometryCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestGetTriangleSquare" />
+      <option name="METHOD_NAME" value="testGetTriangleSquareWithZeroSides" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestGetTriangleSquare.testGetTriangleSquareWithOneNegativeSideAndTwoPositiveSides" />
+        <item itemvalue="JUnit.TestGetTriangleSquare.testGetTriangleSquareWithZeroSides" />
+        <item itemvalue="JUnit.TestGetTriangleSquare.testGetTriangleSquareWithOneZeroSideAndTwoPositiveSides" />
+        <item itemvalue="JUnit.TestGetTriangleSquare.testGetTriangleSquareWithOneFractionalSideAndTwoPositiveSides" />
+        <item itemvalue="JUnit.TestGetTriangleSquare.testGetTriangleSquareWithOneFractionalSides" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cd79b9a-c08d-451f-bad6-4d34bbc63a0e" name="Default Changelist" comment="" />
+      <created>1610722181676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610722181676</updated>
+    </task>
+    <servers />
+  </component>
+</project>
